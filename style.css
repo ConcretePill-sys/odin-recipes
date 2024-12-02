@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    background-color: lightblue;
+    color: orange;
+}
+.title{
+    font-size: 100px;
+    font-weight: bold;
+}
+ol{
+    background-color: lightgreen;
+    color: black;
+}
